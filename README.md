@@ -6,9 +6,9 @@ This project has been developed as part of the Programming 1 course at Parthenop
 # Project Structure
 The project is organized into two main parts:
 
-## Magic Squares
+## 1) Magic Squares
 This part of the project focuses on simulating Magic Squares. A magic square is a matrix of integers in which the sum of every row, column, and diagonal is equal to a magic constant. The program generates random matrices with integers from 1 to n^2, checks if the matrix is a magic square, and calculates the success rate.
-## Current Account
+## 2) Current Account
 The second part of the project revolves around managing Current Accounts. The program allows the insertion of new account holders identified by their surname, name, account number, and a list of transactions. Users can view the list of transactions for a specific account holder, either by searching with the account number or by using the surname/name.
 
 # Code Structure
