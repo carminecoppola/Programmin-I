@@ -1,7 +1,7 @@
 # Programming - I Project
 
 # Introduction
-This project has been developed as part of the Programming 1 course at Parthenope University of Naples. The primary objective of the project is to implement two C programs: one for simulating Magic Squares and the other for managing Current Accounts. Both programs adhere to the course specifications and are designed with a modular structure and explanatory comments.
+This project has been developed as part of the Programming - I course at Parthenope University of Naples. The primary objective of the project is to implement two C programs: one for simulating Magic Squares and the other for managing Current Accounts. Both programs adhere to the course specifications and are designed with a modular structure and explanatory comments.
 
 # Project Structure
 The project is organized into two main parts:
